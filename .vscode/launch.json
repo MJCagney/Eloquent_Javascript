@@ -12,7 +12,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\6 - Higher-Order Functions.js\\8-Recognizing text.js"
+            "program": "${workspaceFolder}\\6 - Higher-Order Functions.js\\Ex-Everything.js"
         }
     ]
 }
